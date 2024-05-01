@@ -113,15 +113,34 @@ print(y_prednew)
 ```
 
 ## Output:
+## Dataset:
 ![Screenshot 2024-04-29 093307](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/88ac4023-910e-4121-93d9-6e384e333654)
+
+## Dataset.dtypes:
 ![Screenshot 2024-04-29 093755](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/a35191ff-864c-47d3-8081-bda70211f2c9)
+
+## Labeled_dataset:
 ![Screenshot 2024-04-29 093801](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/f354e51d-f40c-4550-8a0c-3b1ecbe51e9e)
+
+## Dependent variable Y:
 ![Screenshot 2024-04-29 093808](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/9bf05190-a99a-405d-803a-0c80b40c3f3e)
+
+## Accuracy:
 ![Screenshot 2024-04-29 093816](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/2d7d028b-a581-4e19-8c80-331bb0203f11)
+
+## y_pred:
 ![Screenshot 2024-04-29 093820](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/10d8ec1d-e237-405f-83ef-b30db7dd8c9b)
+
+## Y:
 ![Screenshot 2024-04-29 093824](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/70d84e44-adae-4694-bec4-29567432f6f6)
-![Screenshot 2024-04-29 093828](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/f8ad7796-7eea-49a1-b612-8cb0b3873c23)
-![Screenshot 2024-04-29 093828](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/7c4a4ce1-1aca-45e6-8b5e-21f29e751252)
+
+## y_pred:
+![Screenshot 2024-05-01 072831](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/cc8911e4-106e-468e-8ba1-131b99769ff9)
+
+![Screenshot 2024-05-01 072856](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/4f4c2d42-95ac-40ed-834c-9a1138d0a07a)
+
+![Screenshot 2024-04-29 093828](https://github.com/JeevaGowtham-S/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118042624/0de83959-826e-4230-b738-9e3703332797)
+
 
 
 
